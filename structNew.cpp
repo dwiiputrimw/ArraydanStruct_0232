@@ -19,5 +19,10 @@ int main() {
     cout << "Umur : " ; 
     cin >> mhs.umur;
     cout << endl; 
+    // tampilkan 
+    cout << "Menampilkn Data" << endl; 
+    cout << "Alamat : " << mhs.alamat <<endl; 
+    cout << "Umur : " << mhs.umur << endl;
+
 
 }
