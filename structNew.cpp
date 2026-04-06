@@ -10,18 +10,5 @@ struct Orang
 
 int main() {
     Orang mhs; 
-    // Mengisi data
-    cout << "Mengisi Data" << endl; 
-    cout << "Nama : " ; 
-    cin >> mhs.nama;
-    cout << "Alamat : " ; 
-    cin >> mhs.alamat;
-    cout << "Umur : " ; 
-    cin >> mhs.umur;
-    cout << endl; 
-    // tampilkan 
-    cout << "Menampilkn Data" << endl; 
-    cout << "Alamat : " << mhs.alamat <<endl; 
-    cout << "Umur : " << mhs.umur << endl;
 
 }
