@@ -25,4 +25,8 @@ int main() {
     cin >> mhs.alamat.desa;
     cout << "Kota : " ; 
     cin >> mhs.alamat.kota;
+    cout << "Umur : " ; 
+    cin >> mhs.umur;
+    cout << endl; 
+
 }
