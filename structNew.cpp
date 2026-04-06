@@ -14,4 +14,10 @@ int main() {
     cout << "Mengisi Data" << endl; 
     cout << "Nama : " ; 
     cin >> mhs.nama;
+    cout << "Alamat : " ; 
+    cin >> mhs.alamat;
+    cout << "Umur : " ; 
+    cin >> mhs.umur;
+    cout << endl; 
+
 }
